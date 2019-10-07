@@ -1,2 +1,2 @@
 # slider_BlueFactory_JavaScript
-Beskonačni slider izrađen u JavaScriptu
+Beskonačni slider izrađen pomoću JavaScripta.
